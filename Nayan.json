@@ -24,7 +24,15 @@
     "autoseen.js",
     "bot.js",
     "fuck.js",
-    "goiadmin.js"
+    "goiadmin.js",
+    "hot.js",
+    "info.js",
+    "mia.js",
+    "murgi.js",
+    "murgi2.js",
+    "npx.js",
+    "npx2.js",
+    "npx3.js"
   ],
   "disabledevents": [
     "join.js"
