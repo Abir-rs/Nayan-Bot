@@ -66,8 +66,8 @@ async function linkanh(choice) {
     "8": "/video/anime",
     "9": "/video/humaiyun",
     "10": "/video/islam",
-    "11": "/video/horny",
-    "12": "/video/hot",
+    "11": "/video/",
+    "12": "/video/",
     "13": "/video/item"
   };
   const h = `${n}${options[choice]}`;
