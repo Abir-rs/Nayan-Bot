@@ -23,7 +23,8 @@
   "disabledcmds": [
     "autoseen.js",
     "bot.js",
-    "fuck.js"
+    "fuck.js",
+    "goiadmin.js"
   ],
   "disabledevents": [
     "join.js"
