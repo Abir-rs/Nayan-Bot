@@ -3,9 +3,9 @@ module.exports.config = {
 	version: "1.0.1",
 	permission: 0,
 	credits: "ryuko",
-  prefix: false,
+  	prefix: true,
 	description: "see weather information in the area",
-	category: "without prefix",
+	category: "with prefix",
 	usages: "[location]",
 	cooldowns: 5,
 	dependencies: {
