@@ -4,7 +4,7 @@ module.exports.config = {
   permission: 0,
   credits: "nayan",
   description: "approve thread using thread id",
-  prefix: false,
+  prefix: true,
   category: "admin",
   usages: "approve [group/remove] [threadid]",
   cooldowns: 5,
