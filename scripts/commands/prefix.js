@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   permission: 0,
   credits: "ryuko",
-  prefix: false,
+  prefix: true,
   description: "guide",
   category: "system",
   usages: "",
@@ -25,9 +25,9 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
     if (body === i.toUpperCase() | body === i | str === body) {
 		const prefix = threadSetting.PREFIX || global.config.PREFIX;
       if (config.PREFIX == null) {
-        return out(`myPrefix: "🌐 System prefix: %1\n🛸 Your box chat prefix: %2"`)
+        return out(`bot prefix : ${global.config.PREFIX}`)
       }
-      else return out(`myPrefix: "🌐 System prefix: %1\n🛸 Your box chat prefix: %2"`)
+      else return out(`bot prefix : ${global.config.PREFIX}`)
     }
 
   });
