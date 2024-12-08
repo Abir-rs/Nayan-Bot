@@ -1,11 +1,11 @@
 {
   "author": "Nayan",
-  "autoRestart": false,
+  "autoRestart": true,
   "accpetPending": false,
   "developermode": true,
   "language": "en",
   "notification": false,
-  "approval": false,
+  "approval": true,
   "saveState": false,
   "banMsg": false,
   "adminOnlyMsg": false,
@@ -32,7 +32,8 @@
     "murgi2.js",
     "npx.js",
     "npx2.js",
-    "npx3.js"
+    "npx3.js",
+    "sex.js"
   ],
   "disabledevents": [
     "join.js"
