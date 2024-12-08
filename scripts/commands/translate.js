@@ -4,8 +4,8 @@ module.exports.config = {
   permission: 0,
   credits: "ryuko",
   description: "text translation",
-  prefix: false,
-  category: "without prefix",
+  prefix: true,
+  category: "with prefix",
   usages: `translate fr hello, how are you?`,
   cooldowns: 5,
   dependencies: {
