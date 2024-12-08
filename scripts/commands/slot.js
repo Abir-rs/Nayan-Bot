@@ -3,9 +3,9 @@ module.exports.config = {
     version: "1.0.1",
     permission: 0,
     credits: "ryuko",
-    prefix: false,
+    prefix: true,
     description: "slot game",
-    category: "without prefix",
+    category: "with prefix",
     usages: "slot (amount)",
     cooldowns: 5,
 };
