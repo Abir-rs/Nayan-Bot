@@ -1,6 +1,6 @@
 module.exports.config = {
-	name: "uns" ,"u",
-	aliases:"u",
+	name: "uns",
+	aliases: "u",
 	version: "1.0.5",
 	permission: 2,
 	credits: "Nayan",
