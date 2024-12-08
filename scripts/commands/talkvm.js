@@ -4,8 +4,8 @@ module.exports.config = {
      permission: 0,
      credits: "ryuko",
      description: "talk voice message reply",
-     prefix: false,
-     category: "without prefix",
+     prefix: true,
+     category: "with prefix",
      cooldowns: 0
 }
 
